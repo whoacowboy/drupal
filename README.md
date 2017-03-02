@@ -12,7 +12,7 @@ Test installation by running.
 
 You should see a bunch of help info.
 
-    composer create-project -n thom8/drupal8-vagrant:dev-php7 drupal && cd $_ && vagrant up;
+    php composer.phar create-project -n thom8/drupal8-vagrant:dev-php7 drupal && cd $_ && vagrant up;
     
 This will take a while, you will have to enter your `sudo` password near the beginning.
 
