@@ -18,3 +18,4 @@ You should see a bunch of help info.
     
 This will take a while, you will have to enter your `sudo` password near the beginning.
 
+    sudo pico /etc/hosts
